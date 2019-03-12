@@ -1,0 +1,28 @@
+body {
+  font-family: 'Muli', sans-serif;
+  margin: 0px;
+}
+
+.welcome img {
+  width: 25%;
+  border-radius: 100px;
+}
+
+.welcome-text {
+  color: black;
+  padding: 10px;
+}
+
+.welcome {
+  background: url("background.jpg") no-repeat center center fixed;
+  background-size: cover;
+  display: flex;
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.about-us {
+  padding: 20px;  
+}
